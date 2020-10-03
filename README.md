@@ -3,6 +3,9 @@
   ## Description
   created cli to make a readme
   
+  ## Visual Demo
+  https://www.dropbox.com/s/jsnnlyfl00q8f1j/md.mov?dl=0
+  
   ## Table of Contents
   
   * [Installation](#installation)
