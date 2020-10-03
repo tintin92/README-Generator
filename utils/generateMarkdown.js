@@ -27,7 +27,7 @@ function generateMarkdown(answers, url) {
   Contributors: ${answers.credit}
 
   ##License
-  ![Picture of ${answers.license}]
+  Licensed under <code>${answers.license}</code>
 
   --
 
