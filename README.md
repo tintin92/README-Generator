@@ -1,7 +1,7 @@
-# readme generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadMe Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  created cli to make a readme
+  cli npm inquirer
   
   ## Table of Contents
   
@@ -18,13 +18,13 @@
 
 
   ## Usage 
-  npm inquirer if you need a ReadMe 
+  npm i 
 
   ## Credits
-  Contributors: Me myself and i
+  Contributors: Me
 
   ##License
-  ![Picture of MIT License]
+  Licensed under <code>MIT License</code>
 
   --
 
