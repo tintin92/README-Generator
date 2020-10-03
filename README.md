@@ -27,7 +27,7 @@
   Contributors: Me
 
   ##License
-  Licensed under <code>MIT License</code>
+  Licensed under <pre><code>MIT License</code></pre>
 
   --
 
