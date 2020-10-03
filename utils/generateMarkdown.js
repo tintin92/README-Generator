@@ -44,7 +44,7 @@ function generateMarkdown(answers) {
   <br>
   Please contact me through my email at ${answers.email}
   <br>
-  GitHub: https://github.com/${data.github}
+  GitHub: https://github.com/${answers.github}
 
 
   `;
