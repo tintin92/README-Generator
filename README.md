@@ -26,10 +26,10 @@
   ## Credits
   Contributors: Me
 
-  ##License
-  Licensed under <pre><code>MIT License</code></pre>
+  ## License
+  <pre><code>MIT License</code></pre>
 
-  --
+  --------
 
   ## Contributing
   After forking the repo, contributions in the form of issues and pull requests are welcomed and encouraged. 
