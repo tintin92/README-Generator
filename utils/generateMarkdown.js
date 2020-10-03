@@ -1,16 +1,15 @@
 // function to generate markdown for README
-function generateMarkdown(answers) {
+function generateMarkdown(answers, url) {
 
-  return ` 
-# ${answers.title} ![${answers.title}](https://img.shields.io/github/languages/top/${answers.github}/${answers.title}) ${url}
+  return `# ${answers.title} ${url}
 
   ## Description
   ${answers.description}
   
   ## Table of Contents
   
-  * [Installation](#install)
-  * [Usage](#use)
+  * [Installation](#installation)
+  * [Usage](#usage)
   * [Credits](#credit)
   * [License](#license)
   * [Tests](#test)
@@ -45,8 +44,6 @@ function generateMarkdown(answers) {
     Email: ${answers.email}
   <br>
     GitHub:${answers.github}
-
-
   `;
 }
 

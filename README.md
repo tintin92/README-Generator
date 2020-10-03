@@ -1,13 +1,12 @@
- 
-# Title
+# readme generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  inquire npm 
+  created cli to make a readme
   
   ## Table of Contents
   
-  * [Installation](#install)
-  * [Usage](#use)
+  * [Installation](#installation)
+  * [Usage](#usage)
   * [Credits](#credit)
   * [License](#license)
   * [Tests](#test)
@@ -15,14 +14,14 @@
 
   ## Installation
   Run this to install and get started
-  <pre><code>npm i</code></pre>
+  <pre><code>npm i </code></pre>
 
 
   ## Usage 
-  creates a readme file
+  npm inquirer if you need a ReadMe 
 
   ## Credits
-  Contributors: Me
+  Contributors: Me myself and i
 
   ##License
   ![Picture of MIT License]
@@ -42,6 +41,4 @@
     Email: tannerschenck@gmail.com
   <br>
     GitHub:tintin92
-
-
   
