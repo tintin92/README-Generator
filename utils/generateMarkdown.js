@@ -1,8 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
- 
+
   return ` 
-# ${answers.title}
+# ${answers.title} ![${answers.title}](https://img.shields.io/github/languages/top/${answers.github}/${answers.title}) ${url}
 
   ## Description
   ${answers.description}
@@ -28,26 +28,26 @@ function generateMarkdown(answers) {
   Contributors: ${answers.credit}
 
   ##License
-  This program is licensed udner <code>${answers.license}</code>
+  ![Picture of ${answers.license}]
 
   --
 
   ## Contributing
-  Post forking this repo, contributions in the form of issues and pull requests are welcomed and encouraged. 
+  After forking the repo, contributions in the form of issues and pull requests are welcomed and encouraged. 
 
   ## Tests
   Test this application by running the following command
-  <pre><code>${answers.test}</code></pre>
+    <pre><code>${answers.test}</code></pre>
 
   ## Questions
-  If there are any questions, comments, or suggestions about the application. 
+  If there are any comments or suggestions about the application. 
   <br>
-  Please contact me through my email at ${answers.email}
+    Email: ${answers.email}
   <br>
-  GitHub: https://github.com/${answers.github}
+    GitHub:${answers.github}
 
 
   `;
-  }
+}
 
 module.exports = generateMarkdown;

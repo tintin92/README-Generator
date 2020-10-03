@@ -1,47 +1,47 @@
  
-# This is an Automated README file generator for all your projects
+# Title
 
   ## Description
-  built a cli to create this
+  inquire npm 
   
   ## Table of Contents
   
   * [Installation](#install)
-  * [Usage](#Usage)
-  * [Credits](#credits)
+  * [Usage](#use)
+  * [Credits](#credit)
   * [License](#license)
-  * [Tests](#tests)
+  * [Tests](#test)
   * [Questions](#questions) 
 
   ## Installation
   Run this to install and get started
-  <pre><code>npm init</code></pre>
+  <pre><code>npm i</code></pre>
 
 
   ## Usage 
-  awesome way to create read mes
+  creates a readme file
 
   ## Credits
-  Contributors: Me myself and I
+  Contributors: Me
 
   ##License
-  This program is licensed udner <code>MIT License</code>
+  ![Picture of MIT License]
 
   --
 
   ## Contributing
-  Post forking this repo, contributions in the form of issues and pull requests are welcomed and encouraged. 
+  After forking the repo, contributions in the form of issues and pull requests are welcomed and encouraged. 
 
   ## Tests
   Test this application by running the following command
-  <pre><code></code></pre>
+    <pre><code>test</code></pre>
 
   ## Questions
-  If there are any questions, comments, or suggestions about the application. 
+  If there are any comments or suggestions about the application. 
   <br>
-  Please contact me through my email at tannerschenck@gmail.com
+    Email: tannerschenck@gmail.com
   <br>
-  GitHub: https://github.com/https://github.com/tintin92
+    GitHub:tintin92
 
 
   
