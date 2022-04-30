@@ -1,7 +1,7 @@
 # ReadMe Generator  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  cli npm inquirer
+  Generates a professional README.md file from user inputs to a new project repository. User inputs include: title, description of project, instructions and examples for use, license (MIT, Apache, ), Credit, Tests, GitHub Username, Email. 
   
   ## Visual Demo
   https://www.dropbox.com/s/jsnnlyfl00q8f1j/md.mov?dl=0
