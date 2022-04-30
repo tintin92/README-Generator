@@ -5,7 +5,7 @@ const generateMarkdown = require("./utils/generateMarkdown");
 inquirer.prompt([
     {
         type: "input",
-        message: "Enter Project Title",
+        message: "What is the title of your project?",
         name: "title"
     },
     {
